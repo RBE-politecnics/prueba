@@ -1,0 +1,48 @@
+====================RESULTATS====================
+NOM: Roc
+QUIZ FET: Gats
+Numero d preguntes fetes: 20
+Respistes correctes: 5
+Dia i hora de finalitzacio: 2025-12-03T12:38:44.048463300
+====================RESULTATS====================
+NOM: RocB
+QUIZ FET: Gats
+Numero d preguntes fetes: 20
+Respistes correctes: 5
+Dia i hora de finalitzacio: 12:41:37 03/12/2025
+====================RESULTATS====================
+NOM: Roc
+QUIZ FET: Gats
+Numero d preguntes fetes: 5
+Respistes correctes: 0
+Dia i hora de finalitzacio: 12:42:16 03/12/2025
+====================RESULTATS====================
+NOM: roc
+QUIZ FET: Gats
+Numero d preguntes fetes: 5
+Respostes correctes: 0
+Dia i hora de finalitzacio: 13:33:08 03/12/2025
+====================RESULTATS====================
+NOM: TestUser
+QUIZ FET: Gats
+Numero d preguntes fetes: 3
+Respostes correctes: 2
+Dia i hora de finalitzacio: 09:48:48 04/12/2025
+====================RESULTATS====================
+NOM: marc
+QUIZ FET: Gats
+Numero d preguntes fetes: 6
+Respostes correctes: 0
+Dia i hora de finalitzacio: 10:25:34 04/12/2025
+====================RESULTATS====================
+NOM: r
+QUIZ FET: Gats
+Numero d preguntes fetes: 20
+Respostes correctes: 5
+Dia i hora de finalitzacio: 10:26:12 04/12/2025
+====================RESULTATS====================
+NOM: tdyrffyidctgbvuyfut
+QUIZ FET: Gossos
+Numero d preguntes fetes: 5
+Respostes correctes: 1
+Dia i hora de finalitzacio: 10:29:39 04/12/2025

@@ -1,0 +1,20 @@
+Cada quant s’ha de banyar un gos comú? |A:Cada setmana|B:Cada 1-2 mesos|C:Mai|B
+Quina és la temperatura corporal normal d’un gos? |A:37°C|B:38-39°C|C:41°C|B
+Quin és un símptoma de deshidratació? |A:Ulls brillants|B:Genives seques|C:Cua alta|B
+Quanta activitat necessita un gos adult? |A:5 minuts|B:30-60 minuts|C:No necessita|B
+Quina edat es considera “senior” en gossos grans? |A:5 anys|B:7 anys|C:12 anys|B
+Quin aliment és tòxic per als gossos? |A:Pastanagues|B:Xocolata|C:Arròs|B
+Quin és un senyal d’ansietat per separació? |A:Dormir més|B:Destruir objectes|C:No menjar mai|B
+Quina vacuna és gairebé sempre obligatòria? |A:Ràbia|B:Parvovirus|C:Tos de gossera|A
+Cada quant cal tallar les ungles d’un gos? |A:Setmanalment|B:Cada 3-4 setmanes|C:Mai|B
+Quina és la millor manera d’ensinistrar un gos? |A:Càstig|B:Reforç positiu|C:Ignorar|B
+Quin sentit és el més potent en els gossos? |A:Vista|B:Oïda|C:Olfacte|C
+Quants àpats necessita un gos adult? |A:Un|B:Dos|C:Cinc|B
+Quina és la causa més comuna d’obesitat en gossos? |A:Genètica|B:Menjar massa|C:Corretja curta|B
+Quina raça té més energia? |A:BullDog|B:Border Collie|C:Chihuahua|B
+Quin és un signe de mal d’oïda? |A:Moure la cua|B:Girar el cap i gratar-se|C:Menjar molt|B
+Quina és la gestació d’una gossa? |A:2 mesos|B:6 mesos|C:1 any|A
+Quants anys pot viure un gos petit? |A:5 anys|B:10 anys|C:15 o més|C
+Què indica una cua baixa i entre les potes? |A:Felicitat|B:Por|C:Relaxació|B
+Quan s’ha de desparasitar un gos? |A:Un cop l’any|B:Cada 3 mesos|C:Mai|B
+Quina activitat ajuda millor a socialitzar un cadell? |A:Conèixer gossos i persones|B:Mantenir-lo a casa|C:Càstigs|A

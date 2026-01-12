@@ -1,0 +1,20 @@
+Quin és el nombre ideal de menjars diaris per a un gat adult? |A:Un|B:Dos|C:Cinc|B
+Cada quant s’ha de tallar les ungles a un gat domèstic? |A:Setmanalment|B:Mensualment|C:Mai|B
+Quina temperatura corporal és normal en un gat? |A:37°C|B:38-39°C|C:40-41°C|B
+Quin nutrient és essencial i només es troba en productes animals? |A:Glucosa|B:Taurina|C:Fibra|B
+Quina és la causa més comuna de boles de pèl? |A:Excés d’aigua|B:Allergies|C:Llepat excessiu|C
+Quina edat es considera “senior” en un gat? |A:6 anys|B:10 anys|C:15 anys|B
+Quin és el primer signe d’estrès en un gat? |A:Dormir més|B:Amagar-se|C:Menjar més|B
+Quin és un arener recomanat per a gats? |A:Arena perfumada|B:Arena aglomerant|C:Pedres grans|B
+Quina vacuna és obligatòria en la majoria de llocs? |A:Antirràbica|B:Antigripal|C:Antiàcars|A
+Quina és la millor forma d’introduir un nou gat a casa? |A:De cop|B:Gradualment|C:Mai|B
+Quanta aigua ha de beure un gat diàriament? |A:Poca|B:Uns 50–100 ml/kg|C:Només si vol|B
+Quin és el sentit més desenvolupat en els gats? |A:Oïda|B:Vista|C:Gust|A
+Cada quant s’ha de netejar el sorral? |A:Un cop al dia|B:Un cop al mes|C:Un cop a la setmana|A
+Quant pot dormir un gat al dia? |A:4 hores|B:8 hores|C:15-18 hores|C
+Quina és la postura típica d’un gat relaxat? |A:Cua rígida|B:Panxa cap amunt|C:Orelles enrere|B
+Quina malaltia és comuna en gats grans? |A:Artritis|B:Rinitis|C:Tos|A
+Quin és el període de gestació d’una gata? |A:2 mesos|B:5 mesos|C:1 any|A
+Quina és la millor manera de socialitzar un gat jove? |A:Forçar-lo|B:Joc i paciència|C:Ignorar-lo|B
+Un gat que ronroneja sempre està… |A:Relaxat|B:Pot sentir dolor o plaer|C:Enfadat|B
+Quin aliment és tòxic per als gats? |A:Pollastre|B:Ceba|C:Arròs|B
